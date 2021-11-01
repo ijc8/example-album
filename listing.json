@@ -1,1 +1,4 @@
-["pd-thing","c-stereo-test","rtcmix-strum"]
+{
+    "cover": "cover.svg",
+    "tracks": ["pd-thing","c-stereo-test","rtcmix-strum"]
+}
