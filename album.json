@@ -2,5 +2,5 @@
     "title": "Example Album",
     "artist": "Ian Clester",
     "cover": "cover.svg",
-    "tracks": ["pd-thing","c-stereo-test","rtcmix-strum"]
+    "tracks": ["pd-thing","c-stereo-test","rtcmix-strum","go-example"]
 }
